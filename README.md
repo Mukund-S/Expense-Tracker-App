@@ -66,7 +66,3 @@ Start the backend server
   npm run dev
 ```
 
-## Project Members
-
-**Mukund Sharma : G01374620**
-**Ritwik Sharma : G01373222**
