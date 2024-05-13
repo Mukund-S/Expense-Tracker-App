@@ -1,0 +1,26 @@
+/* auth.css */
+
+.lnk {
+    text-decoration: none;
+    color: #000;
+  }
+  
+  .btnStyle {
+    background-color: #28a745;
+    border: 2px solid #28a745;
+    color: #fff;
+  }
+  
+  .btnStyle:hover {
+    background-color: #218838;
+    border-color: #218838;
+  }
+  
+  .form-box {
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
